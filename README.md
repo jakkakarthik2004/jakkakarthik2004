@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-
 <p align="center">
   <img src="https://github.com/jakkakarthik2004/jakkakarthik2004/blob/main/programmer.gif" alt="banner" />
 </p>
